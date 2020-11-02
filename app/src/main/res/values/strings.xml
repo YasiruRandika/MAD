@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test App 2019 SLIIT</string>
+    <string name="user_name">User Name</string>
+    <string name="year">Year</string>
+    <string name="game_name">Game Name</string>
+    <string name="game_list">Game List</string>
+    <string name="game_overview">Game Overview</string>
+    <string name="rate">Rate</string>
+    <string name="comments">Comments</string>
+    <string name="comment_here">Comment Here</string>
+    <string name="submit">Submit</string>
+    <string name="current_ratings">Current Ratings</string>
+    <string name="_0">0</string>
+</resources>
